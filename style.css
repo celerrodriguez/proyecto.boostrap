@@ -1,0 +1,53 @@
+.color-header {
+background-color:#04042f;
+}
+
+header {
+    background-image:linear-gradient(#04042f, #fff);
+color: #04042f;
+}
+.tienda {
+    background-color: #7c9cb0;
+}
+
+.bg-card {
+    background-color: #04042f;
+}
+
+.main-bg {
+    background-image:linear-gradient(#04042f, #fff);
+}
+
+.bg-table {
+    background-color: #04042f;
+    color: #fff;
+}
+
+.bg-footer {
+    background-color: #acbcc7;
+}
+
+.bg-acceso {
+    background-image: linear-gradient(white,#7c9cb0);
+}
+
+.socios-text {
+    color: #04042f;
+    font-size: 46px;
+}
+
+.text-registro {
+    color: #04042f;
+}
+
+.zoom-lyon {
+    transition: transform 0.5s;
+    overflow: hidden;
+    cursor: pointer;
+  
+  }
+  
+  .zoom-lyon img:hover {
+    transform: scale(1.2);
+  }
+
